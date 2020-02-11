@@ -7,7 +7,7 @@
 This image can be used to test and build Android APKs developed with Flutter. Here is an example `bitbucket-pipelines.yml` for Bitbucket Pipelines including caches for gradle and gradlewrapper:
 
 ```
-image: martinlowinski/flutter-android-sdk
+image: mubarak1361/flutter-android-sdk
 
 pipelines:
   default:
